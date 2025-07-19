@@ -75,8 +75,6 @@ Final year ECE student at **LNMIIT, Jaipur** passionate about building scalable 
 
 ###
 
-##
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lakshya-0264&theme=react&hide_border=true" height="220" alt="streak graph"  />
 </div>

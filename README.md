@@ -2,7 +2,7 @@
 
 ###
 
-Final year ECE student at **LNMIIT, Jaipur** passionate about building scalable web applications with integrating AI and solving daily life problems.
+Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & scalable web applications with integrating AI and solving daily life problems.
 
 ###
 

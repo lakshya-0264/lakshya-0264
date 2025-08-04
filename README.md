@@ -6,7 +6,7 @@ Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & 
 
 ###
 
-## 📶 Tech Stack
+## ⚒️ Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5" />
@@ -36,6 +36,10 @@ Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab" />
+  <img width="10" />
 </p>
 
 <!-- 
@@ -48,7 +52,7 @@ Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & 
   <img src="https://streak-stats.demolab.com?user=lakshya-0264&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-0264&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
--->
+ -->
 
 ###
 
@@ -74,6 +78,12 @@ Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & 
 
 ###
 
+## 📶 Github Stats:
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-0264&theme=react&hide_border=true" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-0264&theme=react&hide_border=true" height="180" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-0264&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="140" alt="languages graph" />
 </div>

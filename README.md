@@ -9,7 +9,7 @@
 
 ###
 
-Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & scalable web applications with integrating AI and solving daily life problems.
+**Final-year ECE student at LNMIIT, Jaipur** — focused on creating scalable web applications, embedding AI into everyday solutions, and constantly learning through hands-on development and research.
 
 ###
 
@@ -92,5 +92,5 @@ Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-0264&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="140" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-0264&locale=en&hide_title=false&layout=compact&card_width=320&theme=react&hide_border=true&order=2" height="140" alt="languages graph" />
 </div>

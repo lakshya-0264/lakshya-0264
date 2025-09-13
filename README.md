@@ -1,5 +1,12 @@
 <h1 align = "center" >Hey there👋, I'm Lakshya Singhal</h1>
 
+<!-- <p align="center">
+  <img src="https://devibe-five.vercel.app/assets/developerSetup-BPW1wVbH.png"
+       alt="Developer Image"
+       width="240" height="240"
+       style="border-radius:50%; object-fit:cover; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+</p> -->
+
 ###
 
 Final year ECE student at **LNMIIT, Jaipur** passionate about building useful & scalable web applications with integrating AI and solving daily life problems.

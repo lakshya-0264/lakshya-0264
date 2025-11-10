@@ -88,9 +88,13 @@
 ## 📶 Github Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-0264&theme=react&hide_border=true" height="180" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-0264&theme=react&hide_border=false" height="180" alt="Contribution graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-0264&locale=en&hide_title=false&layout=compact&card_width=320&theme=react&hide_border=true&order=2" height="140" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-0264&theme=react&hide_border=false" height="180" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-0264&locale=en&hide_title=false&layout=compact&card_width=320&theme=react&hide_border=false&order=2" height="140" alt="languages graph" />
 </div>
